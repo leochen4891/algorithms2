@@ -1,0 +1,3 @@
+horse zebra cat bear table
+water soda bed orange_juice milk apple_juice tea coffee
+apple pear peach banana lime lemon blueberry strawberry mango watermelon potato
